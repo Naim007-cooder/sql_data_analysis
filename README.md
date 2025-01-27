@@ -251,6 +251,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For questions or feedback, feel free to contact:
 
 - **Author:** Naim
+- **Email:** naimurrashid1105@gmail.com ✉️
 - **GitHub:** [Naim007-cooder](https://github.com/Naim007-cooder)
 
 Thank you for exploring this project! Happy analyzing! 🎉
